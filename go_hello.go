@@ -1,5 +1,5 @@
 package golanghello_test
 
 func GoHello() string {
-	return "Hello, world!"
+	return "Hello, world guys!"
 }
